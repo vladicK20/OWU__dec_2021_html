@@ -1,0 +1,36 @@
+html {
+    font-family: 'Montserrat', sans-serif;;
+    scroll-behavior: smooth;
+}
+
+li {
+    font-weight: bold;
+}
+
+a {
+    color: rgba(21, 21, 21, 0.75);
+}
+
+h1 {
+    color: rgba(253, 253, 36, 0.89);
+    text-shadow: -2px -2px 7px #fcd9a5;
+}
+
+h2 {
+    color: #d71137;
+    display: block;
+    text-shadow: -2px -2px 8px #D9FFA7;
+}
+
+.main_container {
+    min-height: 700px;
+    background-color: #808de5;
+    border: 5px solid black;
+    border-radius: 3%;
+    padding: 20px;
+}
+
+.pic {
+    size: 100px;
+    height: 300px;
+}
