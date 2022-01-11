@@ -25,7 +25,7 @@ h2 {
 .main_container {
     min-height: 700px;
     background-color: #808de5;
-    border: 5px solid black;
+    border: 5px  solid black;
     border-radius: 3%;
     padding: 20px;
 }
